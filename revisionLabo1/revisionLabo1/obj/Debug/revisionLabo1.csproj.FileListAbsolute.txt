@@ -1,0 +1,9 @@
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\revisionLabo1\revisionLabo1\bin\Debug\revisionLabo1.exe.config
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\revisionLabo1\revisionLabo1\bin\Debug\revisionLabo1.exe
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\revisionLabo1\revisionLabo1\bin\Debug\revisionLabo1.pdb
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\revisionLabo1\revisionLabo1\obj\Debug\revisionLabo1.csprojResolveAssemblyReference.cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\revisionLabo1\revisionLabo1\obj\Debug\revisionLabo1.Properties.Resources.resources
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\revisionLabo1\revisionLabo1\obj\Debug\revisionLabo1.csproj.GenerateResource.Cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\revisionLabo1\revisionLabo1\obj\Debug\revisionLabo1.csproj.CoreCompileInputs.cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\revisionLabo1\revisionLabo1\obj\Debug\revisionLabo1.exe
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\revisionLabo1\revisionLabo1\obj\Debug\revisionLabo1.pdb

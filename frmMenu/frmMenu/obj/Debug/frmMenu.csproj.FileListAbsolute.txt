@@ -1,0 +1,5 @@
+C:\Users\Portable\documents\visual studio 2017\Projects\frmMenu\frmMenu\obj\Debug\frmMenu.csprojResolveAssemblyReference.cache
+C:\Users\Portable\documents\visual studio 2017\Projects\frmMenu\frmMenu\obj\Debug\frmMenu.frmMenu.resources
+C:\Users\Portable\documents\visual studio 2017\Projects\frmMenu\frmMenu\obj\Debug\frmMenu.frmAffichageParProgrommation.resources
+C:\Users\Portable\documents\visual studio 2017\Projects\frmMenu\frmMenu\obj\Debug\frmMenu.Properties.Resources.resources
+C:\Users\Portable\documents\visual studio 2017\Projects\frmMenu\frmMenu\obj\Debug\frmMenu.csproj.GenerateResource.Cache

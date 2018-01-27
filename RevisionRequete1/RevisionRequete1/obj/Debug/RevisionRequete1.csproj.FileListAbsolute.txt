@@ -1,0 +1,7 @@
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\RevisionRequete1\RevisionRequete1\bin\Debug\RevisionRequete1.exe.config
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\RevisionRequete1\RevisionRequete1\bin\Debug\RevisionRequete1.exe
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\RevisionRequete1\RevisionRequete1\bin\Debug\RevisionRequete1.pdb
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\RevisionRequete1\RevisionRequete1\obj\Debug\RevisionRequete1.csprojResolveAssemblyReference.cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\RevisionRequete1\RevisionRequete1\obj\Debug\RevisionRequete1.csproj.CoreCompileInputs.cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\RevisionRequete1\RevisionRequete1\obj\Debug\RevisionRequete1.exe
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\RevisionRequete1\RevisionRequete1\obj\Debug\RevisionRequete1.pdb

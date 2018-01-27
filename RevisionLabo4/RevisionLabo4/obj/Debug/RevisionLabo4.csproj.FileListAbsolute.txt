@@ -1,0 +1,11 @@
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\RevisionLabo4\RevisionLabo4\bin\Debug\RevisionLabo4.exe.config
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\RevisionLabo4\RevisionLabo4\bin\Debug\RevisionLabo4.exe
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\RevisionLabo4\RevisionLabo4\bin\Debug\RevisionLabo4.pdb
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\RevisionLabo4\RevisionLabo4\obj\Debug\RevisionLabo4.csprojResolveAssemblyReference.cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\RevisionLabo4\RevisionLabo4\obj\Debug\RevisionLabo4.frmAffichageProg.resources
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\RevisionLabo4\RevisionLabo4\obj\Debug\RevisionLabo4.frmMenu.resources
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\RevisionLabo4\RevisionLabo4\obj\Debug\RevisionLabo4.Properties.Resources.resources
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\RevisionLabo4\RevisionLabo4\obj\Debug\RevisionLabo4.csproj.GenerateResource.Cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\RevisionLabo4\RevisionLabo4\obj\Debug\RevisionLabo4.csproj.CoreCompileInputs.cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\RevisionLabo4\RevisionLabo4\obj\Debug\RevisionLabo4.exe
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\RevisionLabo4\RevisionLabo4\obj\Debug\RevisionLabo4.pdb

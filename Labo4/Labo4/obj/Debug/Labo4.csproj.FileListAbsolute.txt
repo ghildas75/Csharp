@@ -1,0 +1,15 @@
+C:\Users\Portable\documents\visual studio 2017\Projects\Labo4\Labo4\obj\Debug\Labo4.csprojResolveAssemblyReference.cache
+C:\Users\Portable\documents\visual studio 2017\Projects\Labo4\Labo4\obj\Debug\Labo4.frmAffichageParProgrommation.resources
+C:\Users\Portable\documents\visual studio 2017\Projects\Labo4\Labo4\obj\Debug\Labo4.frmConnexionClient.resources
+C:\Users\Portable\documents\visual studio 2017\Projects\Labo4\Labo4\obj\Debug\Labo4.frmMenu.resources
+C:\Users\Portable\documents\visual studio 2017\Projects\Labo4\Labo4\obj\Debug\Labo4.frmReservationVoyage.resources
+C:\Users\Portable\documents\visual studio 2017\Projects\Labo4\Labo4\obj\Debug\Labo4.Properties.Resources.resources
+C:\Users\Portable\documents\visual studio 2017\Projects\Labo4\Labo4\obj\Debug\Labo4.csproj.GenerateResource.Cache
+C:\Users\Portable\documents\visual studio 2017\Projects\Labo4\Labo4\obj\Debug\Labo4.csproj.CoreCompileInputs.cache
+C:\Users\Portable\documents\visual studio 2017\Projects\Labo4\Labo4\bin\Debug\Labo4.exe.config
+C:\Users\Portable\documents\visual studio 2017\Projects\Labo4\Labo4\bin\Debug\Labo4.exe
+C:\Users\Portable\documents\visual studio 2017\Projects\Labo4\Labo4\bin\Debug\Labo4.pdb
+C:\Users\Portable\documents\visual studio 2017\Projects\Labo4\Labo4\obj\Debug\Labo4.exe
+C:\Users\Portable\documents\visual studio 2017\Projects\Labo4\Labo4\obj\Debug\Labo4.pdb
+C:\Users\Portable\documents\visual studio 2017\Projects\Labo4\Labo4\bin\Debug\BDVoyages.mdf
+C:\Users\Portable\documents\visual studio 2017\Projects\Labo4\Labo4\bin\Debug\BDVoyages_log.ldf

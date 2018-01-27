@@ -1,0 +1,15 @@
+c:\users\portable\documents\visual studio 2017\Projects\Labo21\Labo21\obj\Debug\Labo21.csprojResolveAssemblyReference.cache
+c:\users\portable\documents\visual studio 2017\Projects\Labo21\Labo21\obj\Debug\Labo21.FrmEnrigistrement.resources
+c:\users\portable\documents\visual studio 2017\Projects\Labo21\Labo21\obj\Debug\Labo21.FrmMenu.resources
+c:\users\portable\documents\visual studio 2017\Projects\Labo21\Labo21\obj\Debug\Labo21.Properties.Resources.resources
+c:\users\portable\documents\visual studio 2017\Projects\Labo21\Labo21\obj\Debug\Labo21.csproj.GenerateResource.Cache
+c:\users\portable\documents\visual studio 2017\Projects\Labo21\Labo21\bin\Debug\Labo21.exe.config
+c:\users\portable\documents\visual studio 2017\Projects\Labo21\Labo21\bin\Debug\Labo21.exe
+c:\users\portable\documents\visual studio 2017\Projects\Labo21\Labo21\bin\Debug\Labo21.pdb
+c:\users\portable\documents\visual studio 2017\Projects\Labo21\Labo21\obj\Debug\Labo21.exe
+c:\users\portable\documents\visual studio 2017\Projects\Labo21\Labo21\obj\Debug\Labo21.pdb
+c:\users\portable\documents\visual studio 2017\Projects\Labo21\Labo21\obj\Debug\Labo21.FrmTabulaire.resources
+C:\Users\Portable\documents\visual studio 2017\Projects\Labo21\Labo21\obj\Debug\Labo21.frmPlusieursTables.resources
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\Labo21\Labo21\obj\Debug\Labo21.frmMaitreDetail.resources
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\Labo21\Labo21\obj\Debug\Labo21.frmAffichageAvecFiltre.resources
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\Labo21\Labo21\obj\Debug\Labo21.csproj.CoreCompileInputs.cache

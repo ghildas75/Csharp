@@ -1,0 +1,12 @@
+c:\users\portable\documents\visual studio 2017\Projects\gcMVCDEMO\gcMVCDEMO\bin\Debug\netcoreapp1.1\gcMVCDEMO.deps.json
+c:\users\portable\documents\visual studio 2017\Projects\gcMVCDEMO\gcMVCDEMO\bin\Debug\netcoreapp1.1\gcMVCDEMO.runtimeconfig.json
+c:\users\portable\documents\visual studio 2017\Projects\gcMVCDEMO\gcMVCDEMO\bin\Debug\netcoreapp1.1\gcMVCDEMO.runtimeconfig.dev.json
+c:\users\portable\documents\visual studio 2017\Projects\gcMVCDEMO\gcMVCDEMO\bin\Debug\netcoreapp1.1\gcMVCDEMO.dll
+c:\users\portable\documents\visual studio 2017\Projects\gcMVCDEMO\gcMVCDEMO\bin\Debug\netcoreapp1.1\gcMVCDEMO.pdb
+c:\users\portable\documents\visual studio 2017\Projects\gcMVCDEMO\gcMVCDEMO\obj\Debug\netcoreapp1.1\gcMVCDEMO.csprojResolveAssemblyReference.cache
+c:\users\portable\documents\visual studio 2017\Projects\gcMVCDEMO\gcMVCDEMO\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+c:\users\portable\documents\visual studio 2017\Projects\gcMVCDEMO\gcMVCDEMO\obj\Debug\netcoreapp1.1\gcMVCDEMO.AssemblyInfo.cs
+c:\users\portable\documents\visual studio 2017\Projects\gcMVCDEMO\gcMVCDEMO\obj\Debug\netcoreapp1.1\gcMVCDEMO.dll
+c:\users\portable\documents\visual studio 2017\Projects\gcMVCDEMO\gcMVCDEMO\obj\Debug\netcoreapp1.1\gcMVCDEMO.pdb
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\gcMVCDEMO\gcMVCDEMO\obj\Debug\netcoreapp1.1\gcMVCDEMO.csproj.CoreCompileInputs.cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\gcMVCDEMO\gcMVCDEMO\obj\Debug\netcoreapp1.1\gcMVCDEMO.AssemblyInfoInputs.cache

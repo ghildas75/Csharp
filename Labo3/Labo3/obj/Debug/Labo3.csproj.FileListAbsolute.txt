@@ -1,0 +1,11 @@
+c:\users\portable\documents\visual studio 2017\Projects\Labo3\Labo3\bin\Debug\Labo3.exe.config
+c:\users\portable\documents\visual studio 2017\Projects\Labo3\Labo3\bin\Debug\Labo3.exe
+c:\users\portable\documents\visual studio 2017\Projects\Labo3\Labo3\bin\Debug\Labo3.pdb
+c:\users\portable\documents\visual studio 2017\Projects\Labo3\Labo3\obj\Debug\Labo3.csprojResolveAssemblyReference.cache
+c:\users\portable\documents\visual studio 2017\Projects\Labo3\Labo3\obj\Debug\Labo3.frmMenu.resources
+c:\users\portable\documents\visual studio 2017\Projects\Labo3\Labo3\obj\Debug\Labo3.Properties.Resources.resources
+c:\users\portable\documents\visual studio 2017\Projects\Labo3\Labo3\obj\Debug\Labo3.csproj.GenerateResource.Cache
+c:\users\portable\documents\visual studio 2017\Projects\Labo3\Labo3\obj\Debug\Labo3.exe
+c:\users\portable\documents\visual studio 2017\Projects\Labo3\Labo3\obj\Debug\Labo3.pdb
+c:\users\portable\documents\visual studio 2017\Projects\Labo3\Labo3\obj\Debug\Labo3.frmMVC.resources
+C:\Users\Portable\documents\visual studio 2017\Projects\Labo3\Labo3\obj\Debug\Labo3.frmChargementDynamique.resources

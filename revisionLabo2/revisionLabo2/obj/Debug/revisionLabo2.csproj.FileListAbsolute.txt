@@ -1,0 +1,15 @@
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\revisionLabo2\revisionLabo2\bin\Debug\revisionLabo2.exe.config
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\revisionLabo2\revisionLabo2\bin\Debug\revisionLabo2.exe
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\revisionLabo2\revisionLabo2\bin\Debug\revisionLabo2.pdb
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\revisionLabo2\revisionLabo2\obj\Debug\revisionLabo2.csprojResolveAssemblyReference.cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\revisionLabo2\revisionLabo2\obj\Debug\revisionLabo2.frmEnrigistrement.resources
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\revisionLabo2\revisionLabo2\obj\Debug\revisionLabo2.frmMenu.resources
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\revisionLabo2\revisionLabo2\obj\Debug\revisionLabo2.Properties.Resources.resources
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\revisionLabo2\revisionLabo2\obj\Debug\revisionLabo2.csproj.GenerateResource.Cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\revisionLabo2\revisionLabo2\obj\Debug\revisionLabo2.csproj.CoreCompileInputs.cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\revisionLabo2\revisionLabo2\obj\Debug\revisionLabo2.exe
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\revisionLabo2\revisionLabo2\obj\Debug\revisionLabo2.pdb
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\revisionLabo2\revisionLabo2\obj\Debug\revisionLabo2.FrmAffichageTabulaire.resources
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\revisionLabo2\revisionLabo2\obj\Debug\revisionLabo2.frmPlusieursTables.resources
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\revisionLabo2\revisionLabo2\obj\Debug\revisionLabo2.frmMasterSlave.resources
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\revisionLabo2\revisionLabo2\obj\Debug\revisionLabo2.frmFiltre.resources

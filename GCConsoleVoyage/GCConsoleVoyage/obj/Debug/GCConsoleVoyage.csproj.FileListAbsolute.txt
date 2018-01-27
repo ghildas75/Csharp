@@ -1,0 +1,6 @@
+c:\users\portable\documents\visual studio 2017\Projects\GCConsoleVoyage\GCConsoleVoyage\bin\Debug\GCConsoleVoyage.exe.config
+c:\users\portable\documents\visual studio 2017\Projects\GCConsoleVoyage\GCConsoleVoyage\bin\Debug\GCConsoleVoyage.exe
+c:\users\portable\documents\visual studio 2017\Projects\GCConsoleVoyage\GCConsoleVoyage\bin\Debug\GCConsoleVoyage.pdb
+c:\users\portable\documents\visual studio 2017\Projects\GCConsoleVoyage\GCConsoleVoyage\obj\Debug\GCConsoleVoyage.csprojResolveAssemblyReference.cache
+c:\users\portable\documents\visual studio 2017\Projects\GCConsoleVoyage\GCConsoleVoyage\obj\Debug\GCConsoleVoyage.exe
+c:\users\portable\documents\visual studio 2017\Projects\GCConsoleVoyage\GCConsoleVoyage\obj\Debug\GCConsoleVoyage.pdb

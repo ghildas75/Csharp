@@ -1,0 +1,67 @@
+﻿@model IEnumerable<MusicStore.Models.Genre>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Notre Catogue </h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<ul>
+    @foreach (var genre in Model)
+    {
+        <li>
+            @Html.ActionLink(genre.Name,
+"Browse", new { genre = genre.Name })
+    </li>
+    }
+</ul>
+
+<ul>
+    @foreach (var genre in Model)
+    {
+        <li><a href="/Store/Browse?genre=@genre.Name">@genre.Name</a></li>
+    }
+</ul>
+@Html.ActionLink("Goto the Store Index", "Index");
+ <!--<table class="table table-striped spacer">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Description)
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+     <tbody>-->
+ <!--  @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.GenreId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.GenreId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.GenreId">Delete</a>
+            </td>
+        </tr>
+       @foreach(var alb in item.Albums)
+       {
+           <tr>
+               <td> titre Album</td>
+               <td> @alb.Title</td>
+           </tr>
+           
+
+       }
+}
+    </tbody>
+</table>  -->

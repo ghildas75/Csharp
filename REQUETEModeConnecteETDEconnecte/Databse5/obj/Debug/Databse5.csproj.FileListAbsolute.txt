@@ -1,0 +1,10 @@
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\ConsoleApp3\Databse5\bin\Debug\Databse5.exe.config
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\ConsoleApp3\Databse5\bin\Debug\Databse5.exe
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\ConsoleApp3\Databse5\bin\Debug\Databse5.pdb
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\ConsoleApp3\Databse5\obj\Debug\Databse5.Form1.resources
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\ConsoleApp3\Databse5\obj\Debug\Databse5.Properties.Resources.resources
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\ConsoleApp3\Databse5\obj\Debug\Databse5.csproj.GenerateResource.Cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\ConsoleApp3\Databse5\obj\Debug\Databse5.csproj.CoreCompileInputs.cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\ConsoleApp3\Databse5\obj\Debug\Databse5.exe
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\ConsoleApp3\Databse5\obj\Debug\Databse5.pdb
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\ConsoleApp3\Databse5\obj\Debug\Databse5.frmEmploye.resources

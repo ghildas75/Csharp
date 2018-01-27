@@ -1,0 +1,11 @@
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\MusicStore\MusicStore\bin\Debug\netcoreapp2.0\MusicStore.deps.json
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\MusicStore\MusicStore\bin\Debug\netcoreapp2.0\MusicStore.runtimeconfig.json
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\MusicStore\MusicStore\bin\Debug\netcoreapp2.0\MusicStore.runtimeconfig.dev.json
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\MusicStore\MusicStore\bin\Debug\netcoreapp2.0\MusicStore.dll
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\MusicStore\MusicStore\bin\Debug\netcoreapp2.0\MusicStore.pdb
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\MusicStore\MusicStore\obj\Debug\netcoreapp2.0\MusicStore.csproj.CoreCompileInputs.cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\MusicStore\MusicStore\obj\Debug\netcoreapp2.0\MusicStore.AssemblyInfoInputs.cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\MusicStore\MusicStore\obj\Debug\netcoreapp2.0\MusicStore.AssemblyInfo.cs
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\MusicStore\MusicStore\obj\Debug\netcoreapp2.0\MusicStore.dll
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\MusicStore\MusicStore\obj\Debug\netcoreapp2.0\MusicStore.pdb
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\MusicStore\MusicStore\obj\Debug\netcoreapp2.0\MusicStore.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+c:\users\portable\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication2.deps.json
+c:\users\portable\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication2.runtimeconfig.json
+c:\users\portable\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication2.runtimeconfig.dev.json
+c:\users\portable\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication2.dll
+c:\users\portable\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication2.pdb
+c:\users\portable\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication2.csprojResolveAssemblyReference.cache
+c:\users\portable\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+c:\users\portable\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication2.AssemblyInfo.cs
+c:\users\portable\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication2.dll
+c:\users\portable\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication2.pdb

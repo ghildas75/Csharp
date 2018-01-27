@@ -1,0 +1,21 @@
+C:\Users\AdminLocal\source\repos\GGPCSNETLabo6\GGPCSNETLabo6\bin\Debug\netcoreapp2.0\GGPCSNETLabo6.deps.json
+C:\Users\AdminLocal\source\repos\GGPCSNETLabo6\GGPCSNETLabo6\bin\Debug\netcoreapp2.0\GGPCSNETLabo6.runtimeconfig.json
+C:\Users\AdminLocal\source\repos\GGPCSNETLabo6\GGPCSNETLabo6\bin\Debug\netcoreapp2.0\GGPCSNETLabo6.runtimeconfig.dev.json
+C:\Users\AdminLocal\source\repos\GGPCSNETLabo6\GGPCSNETLabo6\bin\Debug\netcoreapp2.0\GGPCSNETLabo6.dll
+C:\Users\AdminLocal\source\repos\GGPCSNETLabo6\GGPCSNETLabo6\obj\Debug\netcoreapp2.0\GGPCSNETLabo6.csproj.CoreCompileInputs.cache
+C:\Users\AdminLocal\source\repos\GGPCSNETLabo6\GGPCSNETLabo6\obj\Debug\netcoreapp2.0\GGPCSNETLabo6.AssemblyInfoInputs.cache
+C:\Users\AdminLocal\source\repos\GGPCSNETLabo6\GGPCSNETLabo6\obj\Debug\netcoreapp2.0\GGPCSNETLabo6.AssemblyInfo.cs
+C:\Users\AdminLocal\source\repos\GGPCSNETLabo6\GGPCSNETLabo6\bin\Debug\netcoreapp2.0\GGPCSNETLabo6.pdb
+C:\Users\AdminLocal\source\repos\GGPCSNETLabo6\GGPCSNETLabo6\obj\Debug\netcoreapp2.0\GGPCSNETLabo6.csprojResolveAssemblyReference.cache
+C:\Users\AdminLocal\source\repos\GGPCSNETLabo6\GGPCSNETLabo6\obj\Debug\netcoreapp2.0\GGPCSNETLabo6.dll
+C:\Users\AdminLocal\source\repos\GGPCSNETLabo6\GGPCSNETLabo6\obj\Debug\netcoreapp2.0\GGPCSNETLabo6.pdb
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\GGPCSNETLabo6\GGPCSNETLabo6\bin\Debug\netcoreapp2.0\GGPCSNETLabo6.deps.json
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\GGPCSNETLabo6\GGPCSNETLabo6\bin\Debug\netcoreapp2.0\GGPCSNETLabo6.runtimeconfig.json
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\GGPCSNETLabo6\GGPCSNETLabo6\bin\Debug\netcoreapp2.0\GGPCSNETLabo6.runtimeconfig.dev.json
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\GGPCSNETLabo6\GGPCSNETLabo6\bin\Debug\netcoreapp2.0\GGPCSNETLabo6.dll
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\GGPCSNETLabo6\GGPCSNETLabo6\bin\Debug\netcoreapp2.0\GGPCSNETLabo6.pdb
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\GGPCSNETLabo6\GGPCSNETLabo6\obj\Debug\netcoreapp2.0\GGPCSNETLabo6.csproj.CoreCompileInputs.cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\GGPCSNETLabo6\GGPCSNETLabo6\obj\Debug\netcoreapp2.0\GGPCSNETLabo6.AssemblyInfoInputs.cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\GGPCSNETLabo6\GGPCSNETLabo6\obj\Debug\netcoreapp2.0\GGPCSNETLabo6.AssemblyInfo.cs
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\GGPCSNETLabo6\GGPCSNETLabo6\obj\Debug\netcoreapp2.0\GGPCSNETLabo6.dll
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\GGPCSNETLabo6\GGPCSNETLabo6\obj\Debug\netcoreapp2.0\GGPCSNETLabo6.pdb

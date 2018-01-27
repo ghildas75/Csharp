@@ -1,0 +1,11 @@
+c:\users\portable\documents\visual studio 2017\Projects\labo41\labo41\bin\Debug\labo41.exe.config
+c:\users\portable\documents\visual studio 2017\Projects\labo41\labo41\bin\Debug\labo41.exe
+c:\users\portable\documents\visual studio 2017\Projects\labo41\labo41\bin\Debug\labo41.pdb
+c:\users\portable\documents\visual studio 2017\Projects\labo41\labo41\obj\Debug\labo41.csprojResolveAssemblyReference.cache
+c:\users\portable\documents\visual studio 2017\Projects\labo41\labo41\obj\Debug\labo41.FrmAffichageParProgrammation.resources
+c:\users\portable\documents\visual studio 2017\Projects\labo41\labo41\obj\Debug\labo41.FrMenu.resources
+c:\users\portable\documents\visual studio 2017\Projects\labo41\labo41\obj\Debug\labo41.Properties.Resources.resources
+c:\users\portable\documents\visual studio 2017\Projects\labo41\labo41\obj\Debug\labo41.csproj.GenerateResource.Cache
+c:\users\portable\documents\visual studio 2017\Projects\labo41\labo41\obj\Debug\labo41.exe
+c:\users\portable\documents\visual studio 2017\Projects\labo41\labo41\obj\Debug\labo41.pdb
+C:\Users\Portable\documents\visual studio 2017\Projects\labo41\labo41\obj\Debug\labo41.csproj.CoreCompileInputs.cache

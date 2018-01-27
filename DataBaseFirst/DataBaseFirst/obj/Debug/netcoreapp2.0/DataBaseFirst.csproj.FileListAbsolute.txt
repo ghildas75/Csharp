@@ -1,0 +1,11 @@
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\DataBaseFirst\DataBaseFirst\bin\Debug\netcoreapp2.0\DataBaseFirst.deps.json
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\DataBaseFirst\DataBaseFirst\bin\Debug\netcoreapp2.0\DataBaseFirst.runtimeconfig.json
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\DataBaseFirst\DataBaseFirst\bin\Debug\netcoreapp2.0\DataBaseFirst.runtimeconfig.dev.json
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\DataBaseFirst\DataBaseFirst\bin\Debug\netcoreapp2.0\DataBaseFirst.dll
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\DataBaseFirst\DataBaseFirst\obj\Debug\netcoreapp2.0\DataBaseFirst.csprojResolveAssemblyReference.cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\DataBaseFirst\DataBaseFirst\obj\Debug\netcoreapp2.0\DataBaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\DataBaseFirst\DataBaseFirst\obj\Debug\netcoreapp2.0\DataBaseFirst.AssemblyInfoInputs.cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\DataBaseFirst\DataBaseFirst\obj\Debug\netcoreapp2.0\DataBaseFirst.AssemblyInfo.cs
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\DataBaseFirst\DataBaseFirst\bin\Debug\netcoreapp2.0\DataBaseFirst.pdb
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\DataBaseFirst\DataBaseFirst\obj\Debug\netcoreapp2.0\DataBaseFirst.dll
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\DataBaseFirst\DataBaseFirst\obj\Debug\netcoreapp2.0\DataBaseFirst.pdb

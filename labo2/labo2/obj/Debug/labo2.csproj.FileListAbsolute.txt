@@ -1,0 +1,17 @@
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\labo2\labo2\bin\Debug\labo2.exe.config
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\labo2\labo2\bin\Debug\labo2.exe
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\labo2\labo2\bin\Debug\labo2.pdb
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\labo2\labo2\obj\Debug\labo2.csprojResolveAssemblyReference.cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\labo2\labo2\obj\Debug\labo2.Properties.Resources.resources
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\labo2\labo2\obj\Debug\labo2.csproj.GenerateResource.Cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\labo2\labo2\obj\Debug\labo2.csproj.CoreCompileInputs.cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\labo2\labo2\obj\Debug\labo2.exe
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\labo2\labo2\obj\Debug\labo2.pdb
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\labo2\labo2\bin\Debug\BDVoyages.mdf
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\labo2\labo2\bin\Debug\BDVoyages_log.ldf
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\labo2\labo2\obj\Debug\labo2.FrmMenu.resources
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\labo2\labo2\obj\Debug\labo2.frmEnrigistrement.resources
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\labo2\labo2\obj\Debug\labo2.frmTabulaire.resources
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\labo2\labo2\obj\Debug\labo2.frmPlusieurTable.resources
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\labo2\labo2\obj\Debug\labo2.frmMaitreDétail.resources
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\labo2\labo2\obj\Debug\labo2.frmFiltre.resources

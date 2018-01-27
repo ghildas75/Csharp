@@ -1,0 +1,10 @@
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\ConsoleApp3\DataBase4\bin\Debug\DataBase4.exe.config
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\ConsoleApp3\DataBase4\bin\Debug\DataBase4.exe
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\ConsoleApp3\DataBase4\bin\Debug\DataBase4.pdb
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\ConsoleApp3\DataBase4\obj\Debug\DataBase4.csprojResolveAssemblyReference.cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\ConsoleApp3\DataBase4\obj\Debug\DataBase4.Form1.resources
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\ConsoleApp3\DataBase4\obj\Debug\DataBase4.Properties.Resources.resources
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\ConsoleApp3\DataBase4\obj\Debug\DataBase4.csproj.GenerateResource.Cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\ConsoleApp3\DataBase4\obj\Debug\DataBase4.csproj.CoreCompileInputs.cache
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\ConsoleApp3\DataBase4\obj\Debug\DataBase4.exe
+C:\Users\Portable\Documents\Visual Studio 2017\Projects\ConsoleApp3\DataBase4\obj\Debug\DataBase4.pdb
